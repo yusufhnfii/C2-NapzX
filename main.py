@@ -157,12 +157,12 @@ def main():
             print('Method "CLOUDFLARE-LAG" not enabled')
 
         elif "help" in cnc:
-            print(f'
+            print(f'''
 METHODS  ► SHOW ALL METHODS
 OWNER  ► CONTACT OWNER
 TOOLS  ► SHOW TOOLS
 CLEAR   ► CLEAR TERMINAL
-            ')
+            ''')
 
         else:
             try:
