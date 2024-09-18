@@ -156,8 +156,8 @@ def main():
         elif "cloudflare-lag" in cnc:
             print('Method "CLOUDFLARE-LAG" not enabled')
 
-        elif help():
-     print(f'
+        elif "help" in cnc:
+            print(f'
 METHODS  ► SHOW ALL METHODS
 OWNER  ► CONTACT OWNER
 TOOLS  ► SHOW TOOLS
